@@ -347,7 +347,7 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
-  displey: flex;
+  display: flex;
   flex-direction: row;
 }
 
